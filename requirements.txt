@@ -1,0 +1,7 @@
+gradio
+# gpt4free // packages
+fake-useragent
+pydantic
+requests
+retrying
+tls-client
